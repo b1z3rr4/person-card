@@ -21,13 +21,13 @@ ${emoji.box_left.cld} ${data.Age.nm}         ${emoji.box_right.cld}
                         \\
                           ${emoji.good.emj}\n`;
 export const spart = `
- ${emoji.box_top.box}${emoji.box_top.box}${emoji.box_top.box}
-${emoji.sbox_left.box}                                                                  ${emoji.sbox_right.box}
-${emoji.sbox_left.box} E-mail: ${data.Email.link}                         ${emoji.sbox_right.box}
-${emoji.sbox_left.box} Github: ${data.Github.link}                                                  ${emoji.sbox_right.box}
-${emoji.sbox_left.box} Linkedin: ${data.Linkedin.link}                             ${emoji.sbox_right.box}
-${emoji.sbox_left.box}                                                                  ${emoji.sbox_right.box}
- ${emoji.box_down.box}${emoji.box_down.box}${emoji.box_down.box}
+ ${emoji.box_top.box}${emoji.box_top.box}
+${emoji.sbox_left.box}                                            ${emoji.sbox_right.box}
+${emoji.sbox_left.box} E-mail: ${data.Email.link}   ${emoji.sbox_right.box}
+${emoji.sbox_left.box} Github: ${data.Github.link}                            ${emoji.sbox_right.box}
+${emoji.sbox_left.box} Linkedin: ${data.Linkedin.link}       ${emoji.sbox_right.box}
+${emoji.sbox_left.box}                                            ${emoji.sbox_right.box}
+ ${emoji.box_down.box}${emoji.box_down.box}
 \n`.txt;
 
 export const tpart = '                                 ' + emoji.secret.emj +` Domingo eu fiz 22 anos\n`.miniText;
