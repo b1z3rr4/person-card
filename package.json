@@ -1,6 +1,6 @@
 {
   "name": "b1z3rr4",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "My person card apresetation",
   "main": "index.js",
   "bin": "./cli.js",

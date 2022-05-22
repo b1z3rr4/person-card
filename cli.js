@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-import { ftext, stext, ttext, fotext } from "./index.js";
+import { fpart, spart, tpart, fopart } from './index.js'
 
-const pkg = ftext + stext + ttext + fotext;
+const pkg = fpart + spart + tpart + fopart;
 console.log(pkg);

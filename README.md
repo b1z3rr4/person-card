@@ -1,14 +1,6 @@
-# Business Card
+# Npx Card
 
 ## On npm
-
-### Clone this repository
-
-```sh
- git clone https://github.com/b1z3rr4/person-card.git
-```
-
-### or
 
 ### Execute in terminal
 
@@ -16,7 +8,9 @@
  npm i b1z3rr4
 ```
 
-### Before use
+Or
+
+### Execute in terminal
 
 ```sh
  npx b1z3rr4
