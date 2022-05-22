@@ -15,5 +15,3 @@ Or
 ```sh
  npx b1z3rr4
 ```
-
-<img src="./print.png" alt="print do meu npx card no terminal bash">
